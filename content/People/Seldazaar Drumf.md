@@ -1,0 +1,1 @@
+Mentor to [[Elara Eon'del'Dawnfire]] and father of [[Vylle Drumf]].

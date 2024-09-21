@@ -1,0 +1,1 @@
+A student of the [[Lunar mysteries]] gaining their wisdom of their forebears through their mentor, or [[Silidar]], with the goal of  achieving Gnosis through discovery and contemplation of The Engrams and their lessons.

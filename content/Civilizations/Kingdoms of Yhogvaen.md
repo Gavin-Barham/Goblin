@@ -1,0 +1,1 @@
+Little is known of the Dwarves of the [[Yhogvaen Mountain range]], but it is said they had a great fortress of a city deep under [[Mt Angaranghe]], filled with more gold and gemstones than even the Empire itself had ever fielded. They are mostly known for the rare, mystically-endowed tools, arms, and armor circulated abroad through the [[Kaldari Trade Princes]].

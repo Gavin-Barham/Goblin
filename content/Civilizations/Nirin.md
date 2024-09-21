@@ -1,0 +1,1 @@
+The Nirin were fishermen, foragers, trappers, primarily.  They invented [[Nijut]], and used to trade their catch along the [[Rhadymar River]]. Sorcerous bloodlines are quite common to the [[Nirin]], unlike most human and halfling populations. It is claimed that all the Nirin clans trace their roots back to the great hero, [[Aeodym]]. 

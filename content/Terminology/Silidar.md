@@ -1,0 +1,1 @@
+A mentor or teacher of the [[Lunar mysteries]] passing the wisdom of their forebears down the path of direct transmission through guidance and observation of the student, or [[Saleida]]’s, own unique journey to Gnosis through discovery and contemplation of The Engrams and their lessons.
