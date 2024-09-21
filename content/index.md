@@ -1,10 +1,10 @@
 
-##Ages:
+## Ages:
 [[Second Great Age]]
 [[Second Emanation]]
 [[Fourth Emanation]]
 
-##Civilizations:
+## Civilizations:
 [[Isztani]]
 [[Kaldari]]
 [[Kingdoms of Yhogvaen]]
@@ -15,11 +15,11 @@
 [[Triumvirate]]
 [[Yrilari]]
 
-##Historical Events:
+## Historical Events:
 [[First Scourging]]
 [[Second Scourging]]
 
-##Languages:
+## Languages:
 [[Ansylar]]
 [[Gadjruni]]
 [[Gamari]]
@@ -31,16 +31,16 @@
 [[Nijut]]
 [[Old Silrune]]
 
-##People:
+## People:
 [[Elara Eon'del'Dawnfire]]
 [[Tröun-Paheyr]]
 [[Seldazaar Drumf]]
 
-##Factions:
+## Factions:
 [[Ik’Torö]]
 [[Nyrwi’Irai Council]]
 
-##Places:
+## Places:
 [[Aegyric Sea]]
 [[Goldmoors]]
 [[Halooda Marshes]]
@@ -48,16 +48,16 @@
 [[Lir’Et’Traala]]
 [[Shaal’Rond]]
 
-##Religion:
+## Religion:
 [[Ishad]]
 [[Lunar mysteries]]
 [[Selumei]]
 
-##Story:
+## Story:
 [[(prologue)]]
 [[Act 1]]
 
-##Terminology:
+## Terminology:
 [[Saleida]]
 [[Silidar]]
 [[Twelvefold Way]]s
