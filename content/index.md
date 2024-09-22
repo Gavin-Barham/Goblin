@@ -63,6 +63,7 @@
 ## People:
 
 #party #pc 
+
 [[9]]
 [[Denver]]
 [[Elara]]
@@ -70,11 +71,13 @@
 
 
 #party #familiar 
+
 [[Aktheiar]]
 [[Grev]]
 
 
 #party #npc 
+
 [[Ayl'Sanrimar]]
 [[Jelariele]]
 [[Escos]]
@@ -82,6 +85,7 @@
 
 
 #pc 
+
 [[Aelindiriel Fiorra]]
 [[Kallen Verlund]]
 [[Celestina Eon'del'Dawnfire]]
@@ -92,6 +96,7 @@
 
 
 #npc
+
 [[Tröun-Paheyr]]
 [[Seldazaar Drumf]]
 [[Ul'Sidhar]]
