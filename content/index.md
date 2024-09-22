@@ -10,42 +10,6 @@
 [[Episode 3]]
 [[Episode 4]]
 [[Episode 5]]
-## Ages:
-
-[[Second Great Age]]
-[[Second Emanation]]
-[[Fourth Emanation]]
-
-## Civilizations:
-
-[[Isztani]]
-[[Kaldari]]
-[[Kingdoms of Yhogvaen]]
-[[Neyjarin]]
-[[Nirin]]
-[[Nyrwimar]]
-[[Sz'Gyrha]]
-[[Triumvirate]]
-[[Yrilari]]
-
-## Historical Events:
-
-[[First Scourging]]
-[[Second Scourging]]
-
-## Languages:
-#Languages 
-
-[[Ansylar]]
-[[Gadjruni]]
-[[Gamari]]
-[[Geltophyr]]
-[[Golodar]]
-[[Haldoji]]
-[[Izjydi]]
-[[Kvetch]]
-[[Nijut]]
-[[Old Silrune]]
 
 ## People:
 
@@ -88,11 +52,49 @@ ______________
 [[Akavat]]
 ______
 
+## Ages:
+
+[[Second Great Age]]
+[[Second Emanation]]
+[[Fourth Emanation]]
+
+## Civilizations:
+
+[[Isztani]]
+[[Kaldari]]
+[[Kingdoms of Yhogvaen]]
+[[Neyjarin]]
+[[Nirin]]
+[[Nyrwimar]]
+[[Sz'Gyrha]]
+[[Triumvirate]]
+[[Yrilari]]
 
 ## Factions:
 
-[[Ik’Torö]]
+[[Mez'Tholir]]
 [[Nyrwi’Irai Council]]
+[[Sihl'Darjhul]]
+[[Yrilari Master]]
+
+## Historical Events:
+
+[[First Scourging]]
+[[Second Scourging]]
+
+## Languages:
+#Languages 
+
+[[Ansylar]]
+[[Gadjruni]]
+[[Gamari]]
+[[Geltophyr]]
+[[Golodar]]
+[[Haldoji]]
+[[Izjydi]]
+[[Kvetch]]
+[[Nijut]]
+[[Old Silrune]]
 
 ## Places:
 
@@ -102,6 +104,7 @@ ______
 [[Irilar]]
 [[Lir’Et’Traala]]
 [[Shaal’Rond]]
+[[Sjaleeri Desert]]
 ## Religion:
 
 [[Ishad]]
@@ -112,3 +115,5 @@ ______
 [[Saleida]]
 [[Silidar]]
 [[Twelvefold Way]]
+[[Ik’Torö]]
+[[black rot]]
