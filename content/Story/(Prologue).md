@@ -1,5 +1,6 @@
 Level zero
 
+Characters:
 [[Elara]]
 [[Glimmerdew Tinkertoes]]
 [[Gale Skywatcher]]
@@ -12,3 +13,5 @@ Level zero
 [[9]]
 [[Naleae Fiorra]]
 [[Aelindiriel Fiorra]]
+
+[[]]
