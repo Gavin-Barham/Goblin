@@ -68,25 +68,19 @@
 [[Denver]]
 [[Elara]]
 [[Vylle]]
-
-
-
+____________________
 #party #familiar 
 
 [[Aktheiar]]
 [[Grev]]
-
-
-
+____________________
 #party #npc 
 
 [[Ayl'Sanrimar]]
 [[Jelariele]]
 [[Eskos]]
 [[Gilthesus Mez'Tholir]]
-
-
-
+_________
 #pc 
 
 [[Aelindiriel Fiorra]]
@@ -96,9 +90,7 @@
 [[Grundle Trimbob Gullywick]]
 [[Glimmerdew Tinkertoes]]
 [[Naleae Fiorra]]
-
-
-
+______________
 #npc
 
 [[Tröun-Paheyr]]
@@ -106,7 +98,7 @@
 [[Ul'Sidhar]]
 [[Cervanos Mez'Tholir]]
 [[Akavat]]
-
+______
 
 
 ## Factions:
