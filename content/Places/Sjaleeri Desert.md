@@ -1,0 +1,1 @@
+Pronounced: Shuh-leer-E

@@ -1,1 +1,3 @@
+#pc
+
 Glimmerdew Tinkertoes is a gnome cobbler of 420 years. He first came to [[Irilar]] about a century ago and has made a comfortable living with his adoptive son [[Gale Skywatcher]]. His usual customers consist of the local [[Wardens of the wilds]] as well as the secretive [[Sjadurza]] though all he knows is a child (usually different every time) will drop off a bag of beat up shoes and the next day the theres baskets of food and gifts in his home and the shoes whisked away. He typically stays to himself aside from his son and some other craftsman and drinking buddies [[Seridil Kismei]], [[Ol'filar]], [[Jedtch]], and [[Jaruk]].
