@@ -63,7 +63,7 @@
 ____________________
 #party #familiar 
 
-[[Aktheiar]]
+[[Ak'Thayir]]
 [[Grev]]
 ____________________
 #party #npc 
