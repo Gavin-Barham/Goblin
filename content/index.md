@@ -54,7 +54,7 @@
 
 [[Izjydi]]
 
-[[Kveth]]
+[[Kvetch]]
 
 [[Nijut]]
 
@@ -83,10 +83,10 @@
 
 #pc 
 [[Aelindiriel Fiorra]]
-[[Callen]]
+[[Kallen Verlund]]
 [[Celestina Eon'del'Dawnfire]]
 [[Gale Skywatcher]]
-[[Glimbob Galiwick]]
+[[Grundle Trimbob Gullywick]]
 [[Glimmerdew Tinkertoes]]
 [[Naleae Fiorra]]
 
