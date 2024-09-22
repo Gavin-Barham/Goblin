@@ -70,10 +70,12 @@
 [[Vylle]]
 
 
+
 #party #familiar 
 
 [[Aktheiar]]
 [[Grev]]
+
 
 
 #party #npc 
@@ -82,6 +84,7 @@
 [[Jelariele]]
 [[Escos]]
 [[Gilthesus Mez'Tholir]]
+
 
 
 #pc 
@@ -93,6 +96,7 @@
 [[Grundle Trimbob Gullywick]]
 [[Glimmerdew Tinkertoes]]
 [[Naleae Fiorra]]
+
 
 
 #npc
