@@ -1,1 +1,3 @@
+#Languages 
+
 (S,M) - Language of the Nyrwimar people. It formed organically from the shortening of older variations of elvish words alongside the inclusion of shorter [[Golodar]] names for common objects, and a shift to more straightforward, no-frills grammar. [[Ansylar]] has no written form, as pictographs are the common way of signifying information visually. However, most Ansylar speakers today are aware of [[Nijut]]. (Any Ansylar speaker may consider themselves proficient in [[Nijut]])

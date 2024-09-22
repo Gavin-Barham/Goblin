@@ -1,3 +1,5 @@
+#Languages 
+
 (Sd, M) Serpentine [Khàvessi], Aqui’Pharsei [Saloög], Ammâmar [Nahmëgi], Ávinei [Kîrod], Neyjarin Druidic [Shildrûk] - Tongue(s) of the Ahliran beastfolk. The "[[Kvetch]]” language describes four dialects of the beasts and a fifth, “master key” dialect : [[Shildrûk]]*.  
 *Shildrûk, or Druidic, is the universal language of the Neyjarin druids.  
   

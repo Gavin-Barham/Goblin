@@ -1,1 +1,3 @@
+#Languages 
+
 (S,Wx,M) ( Àlb’Sül’Yaril) : Tongue of the [[Yrilari]] Masters who sang the [[High Towers]] into form. Proliferated under the Nastel’Radhymar [[Triumvirate]]. Now kept alive by older [[Nyrwimar]] Elves and those initiated in the [[Lunar mysteries]]. Its written form is incredibly complex and subjective, each phrase requiring a central pictograph, which may be one of the 29 forms with specific meanings, referenced in [[Yrilari]] spiritual texts, or at other times spontaneously etched to the occasion. The pictograph is then framed by etched runes, and by combining their order and relation to the pictograph, an interpretation can be made.

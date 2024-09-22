@@ -38,7 +38,7 @@
 
 [[Second Scourging]]
 
-## Languages:
+## #Languages:
 
 [[Ansylar]]
 
@@ -62,22 +62,42 @@
 
 ## People:
 
-#party
-
-[[Elara]]
-
+#party #pc 
+[[9]]
 [[Denver]]
-
+[[Elara]]
 [[Vylle]]
 
-[[9]]
+
+#party #familiar 
+[[Aktheiar]]
+[[Grev]]
+
+
+#party #npc 
+[[Ayl'Sanrimar]]
+[[Jelariele]]
+[[Escos]]
+[[Gilthesus Mez'Tholir]]
+
+
+#pc 
+[[Aelindiriel Fiorra]]
+[[Callen]]
+[[Celestina Eon'del'Dawnfire]]
+[[Gale Skywatcher]]
+[[Glimbob Galiwick]]
+[[Glimmerdew Tinkertoes]]
+[[Naleae Fiorra]]
 
 
 #npc
-
 [[Tröun-Paheyr]]
-
 [[Seldazaar Drumf]]
+[[Ul'Sidhar]]
+[[Cervanos Mez'Tholir]]
+[[Akavat]]
+
 
 
 ## Factions:

@@ -1,1 +1,3 @@
+#Languages 
+
 (S,Wa) (Hagrat) - Language of the [[Goldmoor]] people. This is the most commonly spoken language among humans and halflings in the [[Radahymar River Valley]] and surrounding lowlands. The [[Gamari]] alphabet is a hodgepodge of simplified [[Izjydi]] runes and short, curving brush-strokes. It quickly caught on in the [[Goldmoor]] after its annexation then and proliferated throughout the empire, becoming the written language of the common man.
