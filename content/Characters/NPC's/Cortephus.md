@@ -1,3 +1,3 @@
 #npc 
 
-A gnomish Arch Mage and the lost holder of [[Ring of Spell storing]]. 
+A gnomish Arch Mage and the lost holder of [[Cortephus' Ring of Spell storing]]. 

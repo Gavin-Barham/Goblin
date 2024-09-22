@@ -1,4 +1,4 @@
-#faction
+#faction #lore
 
 A [[Kaldari]] house.
 

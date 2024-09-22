@@ -1,1 +1,3 @@
+#religion #lore 
+
 There are Six Commandments of the Dawn, taken together with the Six Commandments of the Dusk, forming the [[Twelvefold Way]] of the silent path. Most favor one deity over the other and some take no particular interest in faith, but the [[Twelvefold Way]] is consistent with the law of the realm itself, and is generally observed by all to the best of their ability to ensure the safety of the people.

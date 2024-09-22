@@ -54,9 +54,21 @@ ______
 
 ## Ages:
 
+#era 
+
 [[Second Great Age]]
 [[Second Emanation]]
 [[Fourth Emanation]]
+
+## Artifacts:
+
+#magic-item #lore 
+
+[[Cortephus' Ring of Spell storing]]
+[[Wand of magic missile]]
+[[Halberd of polymorph]]
+[[Dancing Dagger]]
+[[Sword of light]]
 
 ## Civilizations:
 
@@ -72,12 +84,17 @@ ______
 
 ## Factions:
 
+#faction 
+
 [[Mez'Tholir]]
 [[Nyrwi’Irai Council]]
 [[Sihl'Darjhul]]
 [[Yrilari Master]]
+[[Viridian Hordes]]
 
 ## Historical Events:
+
+#lore 
 
 [[First Scourging]]
 [[Second Scourging]]
@@ -97,6 +114,7 @@ ______
 [[Old Silrune]]
 
 ## Places:
+#places
 
 [[Aegyric Sea]]
 [[Goldmoors]]
@@ -106,6 +124,8 @@ ______
 [[Shaal’Rond]]
 [[Sjaleeri Desert]]
 ## Religion:
+
+#religion 
 
 [[Ishad]]
 [[Lunar mysteries]]
