@@ -6,7 +6,7 @@ After a short period of travel the group was assaulted in the night by a small b
 
 Upon entering they were greeted by a small bird, seemingly in distress and hinting us to follow it. Upon finding a river crossing the wagon could not traverse the group took 1 of the soldiers and continued following the avian creature on foot.
 
-The bird eventually led to a trap by some nomads, however they were mostly friendly and didn't give the group much trouble and actually asked for aid in finding a missing druid that led their group. She was said to have been lost near a viridian horde hatchery. The group decided to help on the condition the nomads with look after the caravan and their people in the groups stead, and should anything happen they be taken to a permanent encampment the nomads are based out of.
+The bird eventually led to a trap by some nomads, however they were mostly friendly and didn't give the group much trouble and actually asked for aid in finding a missing druid [[k]] that led their group. She was said to have been lost near a viridian horde hatchery. The group decided to help on the condition the nomads with look after the caravan and their people in the groups stead, and should anything happen they be taken to a permanent encampment the nomads are based out of.
 
 With a little overs a days travel the group came across an infested lake with a waterfall. Upon closer investigation the group was suddenly ambushed by vine like tendrils that protruded from the lake.
 
@@ -29,12 +29,11 @@ After the group successful killed what goblins they found, and searching the roo
 
 The group realizes this must be the infected cat they saw earlier in the cavern. The group took a rest at this point while [[Denver]] focused on building a small fire, [[Elara]] began looking into the magic ring they had found earlier.
 
-It turned out there was an entity living inside of it. He spoke of his last bearer [[Cortephus]], a gnomish Arch Mage of the [[Kaldari]] house of [[Mez'Tholir]] of the city [[Mez'Rimor]]. The entity 
+It turned out there was an entity living inside of it. He spoke of his last bearer [[Cortephus]], a gnomish Arch Mage of the [[Kaldari]] house of [[Mez'Tholir]] of the city [[Mez'Rimor]]. The entity mentioned it wanted to seek a [[Yrilari Master]] or the [[Primark]], and asked to speak with a [[Kaldari]] noble as soon as possible.
 
+After [[Denver]] started the fire we began feeling trembling and screams, under the gross skin-like strip of floor was a mouth and eye in what looked to be a tunnel of flesh. [[Vylle]] and [[Eskos]] began carving their way through the flesh to find "the heart" that [[Vylle]] had been sensing.
 
+Upon finding and slaying "the heart", [[Vylle]] convinced [[Eskos]] to head back and while no one was looking consumed blood from "the heart" to feed his persistent hunger.
 
-Upon reaching the cat again [[9]] laid on hands to cure both the cat and the gnomish woman of the [[black rot disease]].
-
-
-
+Upon reaching the cat again [[9]] laid on hands to cure both the cat and the gnomish woman of the [[black rot]] disease. It turns out the cat was [[k]] the missing Druid we were searching for.
 
