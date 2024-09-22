@@ -38,26 +38,18 @@
 
 [[Second Scourging]]
 
-## #Languages:
+## Languages:
+#Languages 
 
 [[Ansylar]]
-
 [[Gadjruni]]
-
 [[Gamari]]
-
 [[Geltophyr]]
-
 [[Golodar]]
-
 [[Haldoji]]
-
 [[Izjydi]]
-
 [[Kvetch]]
-
 [[Nijut]]
-
 [[Old Silrune]]
 
 ## People:
