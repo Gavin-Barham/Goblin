@@ -1,4 +1,3 @@
 Denver Littlemoss
 
-#pc
-#party 
+#pc #party 
