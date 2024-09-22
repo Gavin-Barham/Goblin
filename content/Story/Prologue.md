@@ -13,5 +13,3 @@ Characters:
 [[9]]
 [[Naleae Fiorra]]
 [[Aelindiriel Fiorra]]
-
-[[]]

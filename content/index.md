@@ -1,6 +1,6 @@
 ## Story:
 
-[[(prologue)]]
+[[Prologue]]
 
 ### Act 1:
 
