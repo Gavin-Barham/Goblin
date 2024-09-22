@@ -16,6 +16,25 @@ Through a bit of effort the gang managed to find a path they could traverse with
 
 The room happened to be full of rotting corpses as well as a number of magical items, Elara found a ring, a glowing rapier, a dagger, a wand, and a halberd. [[Elara]] kept hold of the ring, while [[Denver]] received the rapier and dagger, [[Vylle]] was given the wand, and [[9]] got the halberd.
 
-After proceeding to the next room the party encountered [[Eskos]] a gnomish warrior is search of a prince of the [[Kaldari]] houses. 
+After proceeding to the next room the party encountered [[Eskos]] a gnomish warrior is search of a prince of the [[Kaldari]] houses. [[Eskos]] and the group began to proceed due to lack of time, however [[9]] was stuck in the passage to the current room so [[Elara]] stayed behind to help him out.
 
-[[Gilthesus Mez'Tholir]] prince of [[Mez'Rimor]]
+When [[Elara]] and [[9]] finally caught up with the group they were in a large cavern with a pit of acid and a gaping maw in the center.
+
+The group traveled carefully by having [[Vylle]] spider climbing along the ceiling ferrying the others across.
+
+Upon entering the final unchecked chamber of the cavern, the came across a small group of [[Verdant Horde]].
+
+After the group successful killed what goblins they found, and searching the room it was discovered that 
+[[Gilthesus Mez'Tholir]] prince of [[Mez'Rimor]] was tied up in the room as well as a small prison holding [[]], a small gnomish woman who was said to be traveling with a cat.
+
+The group realizes this must be the infected cat they saw earlier in the cavern. The group took a rest at this point while [[Denver]] focused on building a small fire, [[Elara]] began looking into the magic ring they had found earlier.
+
+It turned out there was an entity living inside of it. He spoke of his last bearer [[Cortephus]], a gnomish Arch Mage of the [[Kaldari]] house of [[Mez'Tholir]] of the city [[Mez'Rimor]]. The entity 
+
+
+
+Upon reaching the cat again [[9]] laid on hands to cure both the cat and the gnomish woman of the [[black rot disease]].
+
+
+
+

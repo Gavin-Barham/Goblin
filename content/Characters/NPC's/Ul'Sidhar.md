@@ -1,3 +1,3 @@
 #npc
 
-Chieftain of clan [[Factions/Sihl'Darjhul]]
+Chieftain of clan [[Sihl'Darjhul]]
