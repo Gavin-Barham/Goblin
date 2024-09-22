@@ -1,3 +1,4 @@
+#act-1
 Its a trap!
 
 The group awoke fresh in the morning and stumbled across a dense patch of wooded area. Upon entering they were greeted by a small bird, seemingly in distress and hinting us to follow it. Upon finding a river crossing the wagon could not traverse the group took 1 of the soldiers and continued following the avian creature on foot.

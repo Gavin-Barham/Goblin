@@ -1,8 +1,15 @@
 ## Story:
 
 [[(prologue)]]
-[[Act 1]]
 
+### Act 1:
+
+#act-1 
+[[Episode 1]]
+[[Episode 2]]
+[[Episode 3]]
+[[Episode 4]]
+[[Episode 5]]
 ## Ages:
 
 [[Second Great Age]]
