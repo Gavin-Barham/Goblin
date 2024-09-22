@@ -82,7 +82,7 @@
 
 [[Ayl'Sanrimar]]
 [[Jelariele]]
-[[Escos]]
+[[Eskos]]
 [[Gilthesus Mez'Tholir]]
 
 

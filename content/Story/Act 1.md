@@ -16,6 +16,6 @@ Through a bit of effort the gang managed to find a path they could traverse with
 
 The room happened to be full of rotting corpses as well as a number of magical items, Elara found a ring, a glowing rapier, a dagger, a wand, and a halberd. [[Elara]] kept hold of the ring, while [[Denver]] received the rapier and dagger, [[Vylle]] was given the wand, and [[9]] got the halberd.
 
-After proceeding to the next room the party encountered [[Escos]] a gnomish warrior is search of a prince of the [[Kaldari]] houses. 
+After proceeding to the next room the party encountered [[Eskos]] a gnomish warrior is search of a prince of the [[Kaldari]] houses. 
 
 [[Gilthesus Mez'Tholir]] prince of [[Mez'Rimor]]
