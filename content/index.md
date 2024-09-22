@@ -82,6 +82,7 @@ _________
 [[Grundle Trimbob Gullywick]]
 [[Glimmerdew Tinkertoes]]
 [[Naleae Fiorra]]
+[[Thalius (friend of ducks)]]
 ______________
 #npc
 
