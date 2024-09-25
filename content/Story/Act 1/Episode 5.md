@@ -12,7 +12,7 @@ The group traveled carefully by having [[Vylle]] spider climbing along the ceili
 Upon entering the final unchecked chamber of the cavern, the came across a small group of [[Viridian Hordes]].
 
 After the group successful killed what goblins they found, and searching the room it was discovered that 
-[[Gilthesus Mez'Tholir]] prince of [[Mez'Rimor]] was tied up in the room as well as a small prison holding [[]], a small gnomish woman who was said to be traveling with a cat.
+[[Gilthesus Mez'Tholir]] prince of [[Mez'Rimor]] was tied up in the room as well as a small prison holding [[Sevurn]], a small gnomish woman who was said to be traveling with a cat.
 
 The group realizes this must be the infected cat they saw earlier in the cavern. The group took a rest at this point while [[Denver]] focused on building a small fire, [[Elara]] began looking into the magic ring they had found earlier.
 
@@ -22,6 +22,6 @@ After [[Denver]] started the fire we began feeling trembling and screams, under 
 
 Upon finding and slaying "the heart", [[Vylle]] convinced [[Eskos]] to head back and while no one was looking consumed blood from "the heart" to feed his persistent hunger.
 
-Upon reaching the cat again [[9]] laid on hands to cure both the cat and the gnomish woman of the [[black rot]] disease. It turns out the cat was [[k]] the missing Druid we were searching for.
+Upon reaching the cat again [[9]] laid on hands to cure both the cat and the gnomish woman of the [[black rot]] disease. It turns out the cat was [[Kaphira]] the missing Druid we were searching for.
 
 After reaching the mouth of the cave safely it was quickly apparent that there were [[Viridian Hordes]] sniffing about, with 2 large ones and a few smaller ones.
